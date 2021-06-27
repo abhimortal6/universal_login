@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "829460942994-pu35mjodn48ef4q6op6srdh0ffv7r40n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhimortal6.universallogin.universal_login_example",
+            "certificate_hash": "e9e80c504ab64e0dafa685c32efedb321b2d0370"
+          }
+        },
+        {
           "client_id": "829460942994-f8bj971lousutou9cvhfjem2kdh0ahsl.apps.googleusercontent.com",
           "client_type": 3
         }
