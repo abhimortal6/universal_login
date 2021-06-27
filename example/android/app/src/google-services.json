@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829460942994",
+    "project_id": "universal-login-test",
+    "storage_bucket": "universal-login-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829460942994:android:2ad7a4f52f69e46e7cd64b",
+        "android_client_info": {
+          "package_name": "com.abhimortal6.universallogin.universal_login_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829460942994-g9391b5ld51qj21avm85amqfsoeq36o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhimortal6.universallogin.universal_login_example",
+            "certificate_hash": "0f1dfb54afca090a9c64ae6ee8e44ac4d4235dea"
+          }
+        },
+        {
+          "client_id": "829460942994-f8bj971lousutou9cvhfjem2kdh0ahsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKjZDayI0KvdhOV0vxW6IlFsptCYDzKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829460942994-f8bj971lousutou9cvhfjem2kdh0ahsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
