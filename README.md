@@ -1,5 +1,5 @@
 
-# Universal Signing Plugin
+# Universal Login Plugin
   
 This plugin is a wrapper of multiple plugin, goal is to achieve multiple auth provider under one hood
   
