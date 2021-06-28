@@ -41,6 +41,23 @@ class _MyAppState extends State<HomePage> {
                 ),
               ],
             ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                ElevatedButton(
+                  child: Text("Facebook"),
+                  onPressed: () async {
+                    await UniversalLogin.loginFacebook();
+                  },
+                ),
+                ElevatedButton(
+                  child: Text("Facebook SignOut"),
+                  onPressed: () async {
+                    await UniversalLogin.logoutFacebook();
+                  },
+                ),
+              ],
+            ),
           ],
         ),
       ),
